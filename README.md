@@ -20,11 +20,11 @@ Tinder Clone website for Dogs made in HTML, CSS, Bootstrap.</br> It was part of 
 
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/Tindog.git
+https://github.com/tamana1212/Tindog.git
 
 ```
-Run Directly - [**Live**](https://manthanugemuge.github.io/Tindog/) //
-[**Download**](https://github.com/ManthanUgemuge/Tindog/archive/refs/heads/main.zip)
+Run Directly - [**Live**](https://tamana1212.github.io/Tin-Dog/) //
+[**Download**](https://github.com/tamana1212/Tindog/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
