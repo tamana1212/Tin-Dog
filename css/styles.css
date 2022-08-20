@@ -1,0 +1,154 @@
+body {
+  font-family: "Montserrat";
+  text-align: center !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+  font-weight: 900 !important;
+}
+
+.container-fluid {
+  padding: 7% 15% !important;
+}
+
+.colored-section {
+  background-color: #FF4C68;
+  color: #FFF;
+}
+.white-section {
+  background-color: #FFF
+}
+
+section#title .container-fluid {
+  padding: 3% 15% 7% !important;
+  text-align: left;
+}
+
+section#title h1{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Navbar */
+section#title .navbar {
+  padding: 0 0 4.5rem;
+}
+
+section#title .navbar .navbar-brand {
+  font-family: "Ubunto";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+section#title .nav-item {
+  padding: 0 18px;
+}
+
+section#title .navlink {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+
+/* Download buttons */
+section#title .download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Image */
+section#title .header-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 27%;
+}
+
+@media (max-width: 1028px) {
+  section#title {
+    text-align: center;
+  }
+  section#title .header-image {
+    transform: rotate(0);
+    position: static;
+  }
+}
+
+/* Features section */
+
+section#features {
+  position: relative;
+}
+
+section#features .feature-box {
+  padding: 4.5%;
+}
+
+section#features .icon {
+  color: #EF8172;
+  margin-bottom: 1rem;
+}
+
+section#features .icon:hover {
+  color: #FF4C68;
+}
+
+section#features h3 {
+  font-size: 1.5rem;
+}
+
+section#features p {
+  color: #8F8F8F;
+}
+
+/* testimonials section */
+
+section#testimonials {
+  background-color: #EF8172;
+}
+
+section#testimonials h2 {
+  font-size: 2rem;
+}
+
+section#testimonials img {
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+/* Press section */
+
+section#press {
+  background-color: #EF8172;
+  padding-bottom: 3%;
+}
+
+section#press img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing section */
+section#pricing {
+  padding: 100px;
+}
+
+section#pricing .plan {
+  padding: 3% 2%;
+}
+
+section#pricing h2 {
+  font-size: 2rem;
+}
+
+/* Call To Action section */
+section#cta h3 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Footer section */
+footer#footer .social-icon {
+  margin: 20px 10px;
+}
